@@ -1,7 +1,7 @@
 # SwanVoice
 Voice Changer for Linux
 
-Prerequisites:
+dependencys:
 PulseAudio
 pavucontrol
-
+libasound2-dev
